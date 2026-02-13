@@ -99,7 +99,6 @@ class StudioClock(tk.Tk):
         self.date_lbl.pack(side="bottom", pady=(0, 15))
         self.icon_bar.place(relx=0.99, rely=0.01, anchor="ne")
         self.toolbar.pack_propagate(False)
-        self.iconbitmap("icon.ico")
 
         if self.is_mini:
             self.right_stack.pack_forget()
