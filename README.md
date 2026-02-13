@@ -4,7 +4,7 @@ A modern Vietnamese word-based clock inspired by QLOCKTWO.
 
 Instead of showing digits, the clock displays the current time in Vietnamese words, lighting up the appropriate letters in a grid.
 
-> The application interface is currently in Vietnamese.
+The application interface is currently in Vietnamese.
 
 ---
 
