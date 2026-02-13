@@ -28,6 +28,12 @@ Instead of showing digits, the clock displays the current time in Vietnamese wor
 
 ![Preview](image1.png)
 
+
+![Preview](image3.png)
+
+
+![Preview](image4.png)
+
 ---
 
 ## Download
