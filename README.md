@@ -22,16 +22,16 @@ The application interface is currently in Vietnamese.
 ---
 
 ## Preview
-
+### Main view
 ![Preview](image2.png)
 
-
+### Mini mode
 ![Preview](image1.png)
 
-
+### Main view with settings enabled, "Anh đào" theme
 ![Preview](image3.png)
 
-
+### Mini mode with settings enabled, "Biển sâu" theme
 ![Preview](image4.png)
 
 ---
